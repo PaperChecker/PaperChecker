@@ -17,30 +17,30 @@ https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas
 https://academic.oup.com/pnasnexus/rss/current
 
 # --- Elsevier (ScienceDirect) ---
-https://rss.sciencedirect.com/publication/science/0012821X # EPSL
-https://rss.sciencedirect.com/publication/science/00167037 # GCA
-https://rss.sciencedirect.com/publication/science/00310182 # Paleo3
-https://rss.sciencedirect.com/publication/science/00092541 # Chemical Geology
-https://rss.sciencedirect.com/publication/science/03019268 # Precambrian Research
-https://rss.sciencedirect.com/publication/science/1342937X # Gondwana Research
+https://rss.sciencedirect.com/publication/science/0012821X
+https://rss.sciencedirect.com/publication/science/00167037
+https://rss.sciencedirect.com/publication/science/00310182
+https://rss.sciencedirect.com/publication/science/00092541
+https://rss.sciencedirect.com/publication/science/03019268
+https://rss.sciencedirect.com/publication/science/1342937X
 
 # --- Geological Society of America ---
-https://pubs.geoscienceworld.org/rss/site_65/advanceAccess_33.xml # Geology
-https://pubs.geoscienceworld.org/rss/site_69/advanceAccess_35.xml # GSA Bulletin
+https://pubs.geoscienceworld.org/rss/site_65/advanceAccess_33.xml
+https://pubs.geoscienceworld.org/rss/site_69/advanceAccess_35.xml
 
 # --- Wiley / AGU ---
-https://agupubs.onlinelibrary.wiley.com/feed/19448007/most-recent # GRL
-https://agupubs.onlinelibrary.wiley.com/feed/19449224/most-recent # GBC
-https://agupubs.onlinelibrary.wiley.com/feed/15252027/most-recent # G3
-https://agupubs.onlinelibrary.wiley.com/feed/21698961/most-recent # JGR: Biogeosciences
+https://agupubs.onlinelibrary.wiley.com/feed/19448007/most-recent
+https://agupubs.onlinelibrary.wiley.com/feed/19449224/most-recent
+https://agupubs.onlinelibrary.wiley.com/feed/15252027/most-recent
+https://agupubs.onlinelibrary.wiley.com/feed/21698961/most-recent
 https://eos.org/feed
 
 # --- IOP science ---
-https://iopscience.iop.org/journal/rss/0004-637X # The Astrophysical Journal
-https://iopscience.iop.org/journal/rss/2041-8205 # The Astrophysical Journal Letters
-https://iopscience.iop.org/journal/rss/0067-0049 # The Astrophysical Journal Supplement Series
-https://iopscience.iop.org/journal/rss/2632-3338 # The Planetary Science Journal
-https://iopscience.iop.org/journal/rss/3049-4753 # Machine Learning: Earth
+https://iopscience.iop.org/journal/rss/0004-637X
+https://iopscience.iop.org/journal/rss/2041-8205
+https://iopscience.iop.org/journal/rss/0067-0049
+https://iopscience.iop.org/journal/rss/2632-3338
+https://iopscience.iop.org/journal/rss/3049-4753
 
 # --- Others ---
 https://onlinelibrary.wiley.com/feed/14724669/most-recent # Geobiology
