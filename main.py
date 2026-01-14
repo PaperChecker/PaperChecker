@@ -37,7 +37,7 @@ HISTORY_FILE = "checked_history.txt"  # 既読論文リスト
 MODEL_NAME = "gemini-2.5-flash"       # Geminiモデル
 
 # アクセス集中回避設定
-STARTUP_RANDOM_DELAY_MINUTES = 10
+STARTUP_RANDOM_DELAY_MINUTES = 1
 REQUEST_INTERVAL_MIN = 3
 REQUEST_INTERVAL_MAX = 10
 
